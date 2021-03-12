@@ -5,11 +5,12 @@ source_metadata:
   title: བཀའ་ཐང་སྡེ་ལྔ། （ཞོལ་པར་རྙིང་།）
   author: ''
   volumes:
-    aaf866ceb2984171929b66054eb3feec:
+    835d426d508d43c8977c7d5a6e4350cf:
       image_group_id: I1PD88787
-      title: ''
+      title: Volume 1 of bka' thang sde lnga (zho par rnying)
       volume_number: 1
       total_pages: 710
+      base_file: v001.txt
 ebook_metadata:
   title: བཀའ་ཐང་སྡེ་ལྔ། （ཞོལ་པར་རྙིང་།）
   author: ''
